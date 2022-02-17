@@ -1,7 +1,25 @@
 ---
 layout: post
-title: You're up and running!
+title: This is my first ever jekyll post!
 ---
+
+# this is a heading 
+
+##this is a heading too! (slightly smaller)
+
+###### this is a heading 6
+
+This is *emphasized* **BOLD**
+
+* list
+* list
+* list 
+
+1. item 1
+2. item 2
+3. item 3
+
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
