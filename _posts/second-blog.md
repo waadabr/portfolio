@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is my first ever jekyll post!
+title: This is my second ever jekyll post!
 ---
 
 # this is a heading 
